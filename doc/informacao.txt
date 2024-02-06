@@ -1,0 +1,49 @@
+- Comando para instalar para compilar e construir o projeto => mvn clean install
+- Classes servem para definir qual é o aspecto e ações do objeto
+- DTO = Objeto para travegar dados 
+- Caracteristicas da classe 
+    public = modificador da classe nesse caso publico
+
+- Metodos são ações que pode ou não ter retorno
+- Void Não tem retorno 
+- metodo principal main
+- Java tem tipagem forte
+- Atributos caracteristicas das Classes
+- Um construtor é um metodo que vai rodar assim que instancia o objeto ( New)
+- sout ( comando simplificado para exibir o System.out.println)
+- Encapsulamento protege os atributos usamos get e set para controlar os metodos 
+- Enums Serve para definir uma lista imutavel e predefinido de valores
+- List conjunto de elementos 
+- Laços Ajuda interagir com lista de elementos e condicionais 
+- Herença classes que possuem as mesmas caracteristicas de outras classes 
+- Poliformismo usa os mesmos metodos , mais com comportamentos distintos
+- Arquivos de propriedades ajuda a isolar dados de variaveis em um arquivo externo 
+- Métodos estaticos são metodos que não altera o estado do objeto, metodos estaticos não precisa do new 
+- Interfaces serve para criar contratos , obrigações a serem seguidas  
+- Diferença de Atributo X variaveis, Atributos ele esta no nivel da classe , qualquer lugar que colocar this.metodo ele é acessado, 
+    - Atributo tem modificador 
+    - Variavel Só é acessada dentro do método que ela se encontra
+    - Variavel não tem modificador
+
+
+Afirmativas: 
+
+# Classes definem o aspecto e ações e caracteristicas dos objetos 
+# Quando quero alterar o aspecto de um objeto, eu altero seus atributos através de um método, através do encapsulamento 
+# Lista são objetos que agrupam elementos, sejam valores ou objetos. Usando o método add para incluir um novo elemento em uma lista
+# Herança se da quando aproveitamos os comportamentos e aspecto de uma classe ou seja atributos e Métodos
+# Poliformismo usado para alterar o comportamente de uma classe através da anotação  @Override
+# Interfaces são como contratos, servem para descrever quais métodos as classes que fazem uso dela deverão implementar 
+
+
+     
+
+
+
+
+
+
+
+
+
+
